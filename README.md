@@ -1,5 +1,5 @@
-# hepsiemlak-java-spring-bootcamp-hw1-seymatezcan
-hepsiemlak-java-spring-bootcamp-hw1-seymatezcan created by GitHub Classroom
+
+İkinci soru:
 
 Java' da çoklu kalıtım mümkün değildir. Bunun nedenleri, olması durumunda karşılaşılacak problemler ve hangi dillerin buna izin verdiğini ve Java' da bunu Object-Oriented prensipleri ile sağlayabilip sağlayamayabileceğimizi yazınız.
 Çoklu kalıtımı destekleyen C++, Python, Perl gibi dillerin yanında Java çoklu kalıtımı desteklemez. Öncelikle kalıtımdan bahsetmek gerekirse, kalıtım, bir sınıfın diğer sınıflara özelliklerini aktarabilmesidir. Özellik aktaran sınıf base class, özellikleri alan sınıf ise subclass olarak adlandırılır. Bu şekilde hiyerarşik bir yapı kurulur.
